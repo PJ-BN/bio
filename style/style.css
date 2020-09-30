@@ -8,7 +8,7 @@ body{
 h1{
   font-family: 'Sacramento', cursive;
   font-size: 100px;
-  margin-left: 30%;
+
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -16,7 +16,7 @@ h1{
 
 h4{
   font-family: 'Montserrat', sans-serif;
-  margin-left: 37%;
+
   margin-top: 0;
   margin-bottom: 0;
   font-size: 30px;
@@ -60,31 +60,27 @@ a:hover{
 
 .top{
   background-color: #C6A8D9;
-
+  text-align: center;
 }
 
 
 .cloud{
   position: relative;
-  left: 75%;
+  left: 30%;
   top: 0;
 
 }
 
 .cloud2{
   position: relative;
-  bottom: 50%;
-  left: 10%;
+  
+  right: 30%;
 
 }
 
 
 
-.hill{
-  position: relative;
-  left: 27%;
-  bottom: 40%;
-}
+
 
 .middle{
   text-align: center;
