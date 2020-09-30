@@ -8,7 +8,7 @@ body{
 h1{
   font-family: 'Sacramento', cursive;
   font-size: 100px;
-  margin-left: 35%;
+  margin-left: 30%;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -16,7 +16,7 @@ h1{
 
 h4{
   font-family: 'Montserrat', sans-serif;
-  margin-left: 42%;
+  margin-left: 37%;
   margin-top: 0;
   margin-bottom: 0;
   font-size: 30px;
@@ -73,15 +73,16 @@ a:hover{
 
 .cloud2{
   position: relative;
-  top: 10%;
-  left: 20%;
+  bottom: 50%;
+  left: 10%;
+
 }
 
 
 
 .hill{
   position: relative;
-  left: 31%;
+  left: 27%;
   bottom: 40%;
 }
 
